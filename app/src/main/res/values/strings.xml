@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="phone_required">Phone # required</string>
+    <string name="phone">Phone</string>
+    <string name="order_more">Order More</string>
+    <string name="optional_default_is_0">(optional default is 0)</string>
+    <string name="quantity">Quantity</string>
+    <string name="item_price_required">Item Price Required</string>
+    <string name="price">Price</string>
+    <string name="item_name_number_required">Item name/number required</string>
+    <string name="name">Name</string>
+    <string name="quantity_text">Quantity:</string>
+    <string name="price_label">Price:</string>
+    <string name="WelcomeScrene">To begin, click on the "Add Item" Floating Button.\n \n\nEach Item requires:\nPhoto\nName\nPrice\nVendor Contact\n\n\n The intial Quantity is optional</string>
+</resources>
